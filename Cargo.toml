@@ -1,0 +1,7 @@
+[package]
+name = "mathvm"
+version = "0.1.0"
+authors = ["Mikhail Chernyavsky <chemike47@gmail.com>"]
+edition = "2018"
+
+[dependencies]
